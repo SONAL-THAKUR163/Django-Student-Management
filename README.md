@@ -1,6 +1,9 @@
 # 🎓 Django Student Management System
 A simple Django CRUD web application for managing student records. It allows users to add, view, edit, and delete student information through a clean web interface.
 
+## 🌐 Live Demo
+🔗 https://django-student-management-3.onrender.com
+
 ## ✨ Features
 - ➕ Add Student Records
 - 📋 View All Students
